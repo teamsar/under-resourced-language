@@ -2395,7 +2395,7 @@ kece/1
 kecebadai/1
 kecebong/-1
 kecele/-1
-kecentit/"
+kecentit/-1
 kecepirit/-1
 keci/0
 kecirit/-1
@@ -3392,7 +3392,7 @@ pattoatoai/-1
 patungan/1
 payo/-1
 payu/1
-pbb/
+pbb/0
 pbj/0
 pd/1
 pda/0
