@@ -1,4 +1,3 @@
-word/polarity
 a6/1
 aa gym/-1
 aagymgtl/-1
@@ -205,7 +204,7 @@ bagito/-1
 bagong/-1
 bagoy/1
 bagudung/-1
-bagus/-1
+bagus/1
 bah/-1
 bahancikan/-1
 bahasa orang atje/1
@@ -383,6 +382,7 @@ bembi/-1
 bencis/-1
 benciz/-1
 benga/-1
+bengor/-1
 bengak/-1
 bengap/-1
 bengen/-1
@@ -638,6 +638,8 @@ btdtgts/0
 btt/0
 btw/0
 bu/-1
+burem/-1
+butek/-1
 buagang/-1
 bubuhan/0
 buceri/0
@@ -1202,6 +1204,7 @@ endodesah/1
 endorse/1
 enek/-1
 enelan/0
+engga/-1
 engas/-1
 engay/0
 engdeng/-1
@@ -1306,6 +1309,7 @@ gajebo/-1
 gajebot/-1
 gajetot/-1
 gak/-1
+ga/-1
 gk/-1
 g/-1
 gak danta/-1
@@ -1616,6 +1620,7 @@ hadeh/-1
 hadija/-1
 hafring/-1
 hagar/0
+haha/1
 hajiko/0
 hajime/0
 hajtep/1
@@ -2477,6 +2482,7 @@ kenyeh/-1
 kenyelan/0
 kenyung/-1
 keode/0
+keok/-1
 kepet/0
 kepetan/-1
 kepincut/1
@@ -2909,8 +2915,9 @@ ngaso/0
 ngaspal/0
 ngatak/-1
 ngawag/-1
-nge   jom/-1
+ngejom/-1
 ngebamen/0
+ngebet/-1
 ngebis/-1
 ngeblangah/0
 ngeblog/1
@@ -3228,6 +3235,7 @@ oho oho/-1
 ohof/1
 ojan/-1
 ojir/0
+ojo/-1
 ojob/0
 okem/0
 oker/0
@@ -3267,6 +3275,7 @@ oprek/1
 opung/0
 opus/-1
 oq2/0
+ora/-1
 ora iso/-1
 ora nggadeg/-1
 oracle/-1
@@ -4078,6 +4087,7 @@ softo/0
 sohel/0
 soim/-1
 sojum/0
+sok/-1
 sokam/0
 sokap/0
 sokat/0
@@ -4234,6 +4244,7 @@ suzuki/0
 swag/0
 swgl/-1
 swt/-1
+syaiton/-1
 t g b c/-1
 ta/-1
 tabiler/-1
@@ -4699,7 +4710,7 @@ wip/0
 wismilak/1
 wjtb/1
 wks/1
-wkwkwkwk/1
+wkwk/1
 wml/1
 wok/0
 wolay/1
